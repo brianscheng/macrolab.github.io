@@ -6,6 +6,8 @@ navbar:
         href: index.html
       - text: "People"
         href: people.html
+      - text: "Projects"
+        href: projects.html
       - text: "Papers"
         href: papers.html
     right:
