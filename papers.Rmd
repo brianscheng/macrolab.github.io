@@ -1,0 +1,47 @@
+---
+output: html_document
+---
+<br>
+*MACRO lab personnel in bold*
+
+**In review**
+
+Ashton, G. V., A. Freestone,…**B. S. Cheng**…, G. M. Ruiz (18th of 64 authors). Predator control of marine communities increases with temperature across 115 degrees of latitude.
+
+**Villeneuve, A.**, L. M. Komoroske, **B. S. Cheng**. Diminished warming tolerance and plasticity in low latitude populations of a marine gastropod.
+
+**Published**
+
+Banerjee, S.M., C.D. Allen, T. Schmitt, **B.S. Cheng**, J. A. Seminoff, T. Eguchi, L. M. Komoroske. (In Press) Baseline health parameters of eastern Pacific green turtles at Southern California foraging grounds. Chelonian Conservation and Biology
+
+Hollarsmith, J.A., J.S. Sadowski, M.M.M. Picard, **B.S. Cheng**, J. Farlin, A. Russell, E.D. Grosholz. (In Press) Relative effects of event-driven estuarine acidification (EA) on growth and survival of native and commercial oysters. Limnology and Oceanography
+
+**Cheng, B.S.**, A.H. Altieri, M.E. Torchin, G.M. Ruiz (2019) Can marine reserves restore lost ecosystem function? A global synthesis. Ecology 100:e02617
+Highlighted in Nature Sustainability | Science Daily
+
+**Cheng, B.S.**, G.M. Ruiz, A.H. Altieri, M.E. Torchin. (2019) The biogeography of invasion in tropical and temperate seagrass beds: testing interactive effects of predation and propagule pressure. Diversity and Distributions 25:285-297
+
+Bible, J.M., **B.S. Cheng**, A.L. Chang, M.C. Ferner, K. Wasson, C.J. Zabin, M. Latta, E. Sanford, A. Deck, E.D. Grosholz (2017) Timing of stressors alters interactive effects on a coastal foundation species. Ecology 98:2468-2478
+
+**Cheng, B.S.**, L.M. Komoroske, E.D. Grosholz (2017) Trophic sensitivity of invasive predator and native prey interactions: integrating environmental context and climate change. Functional Ecology 31:642-652
+Capital Public Radio NPR | Seeker Discovery News | Grist
+
+**Cheng, B.S.**, A.L. Chang, A. Deck, M.C. Ferner (2016) Atmospheric rivers and the mass mortality of wild oysters: insight into an extreme future? Proceedings of the Royal Society B 283:20161462 
+
+Southern California Public Radio NPR | LA Times | Science News | Motherboard VICE | Marin Independent Journal  +cartoon! | International Business Times | National Resources Defense Council
+
+**Cheng, B.S.** and E.D. Grosholz (2016) Environmental stress mediates trophic cascade strength and resistance to invasion. Ecosphere 7 (4): e01247. 10.1002/ecs2.1247 pdf
+
+**Cheng, B.S.**, J.M. Bible, A.L. Chang, M.C. Ferner, K. Wasson, C.J. Zabin, M. Latta, A. Deck, A.E. Todgham, E.D. Grosholz (2015) Testing local and global stressor impacts on a coastal foundation species using an ecologically realistic framework. Global Change Biology 21:2488-2499
+
+Williams, S.L., N. Janetski, S. Blankenhorn, J. Abbott, **B.S. Cheng**, E. Crafton, D. Trockel (2014)
+Ornamental marine species culture in the coral triangle: seahorse demonstration project in the Spermonde Islands, Sulawesi, Indonesia. Environmental Management doi: 10.1007/s00267-014-0343-6
+
+Komoroske, L.M., R. Connon, J. Lindberg, **B.S. Cheng**, G. Castillo, M. Hasenbein, N. Fangue (2014)
+Ontogeny influences sensitivity to climate change stressors in an endangered fish. Conservation Physiology 2:cou008-cou008
+
+Kimbro, D.L., **B.S. Cheng**, E.D. Grosholz (2013) Biotic resistance in marine environments. Ecology Letters 16:821-833
+
+Woodson, C.B., J.A. Barth, O.M. Cheriton, M.A. McManus, J.P. Ryan, L. Washburn, K.N. Carden, **B.S. Cheng**, J. Fernandes, L.E. Garske, T.C. Gouhier, A.J. Haupt, K.T. Honey, M.F. Hubbard,   A. Iles, L. Kara, M.C. Lynch, B. Mahoney, M. Pfaff, M.L. Pinsky, M.J. Robart, J.S. Stewart, S.J. Teck, A. True (2011) Observations of internal wave packets propagating along-shelf in northern Monterey Bay. Geophysical Research Letters 38: L01605
+
+**Cheng, B.S.** and K.A. Hovel (2010) Biotic resistance to invasion along an estuarine gradient. Oecologia 164:1049-1059

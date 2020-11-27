@@ -1,0 +1,13 @@
+output_dir: "."
+navbar:
+    title: "MACRO Lab"
+    left: 
+      - text: "Home"
+        href: index.html
+      - text: "People"
+        href: people.html
+      - text: "Papers"
+        href: papers.html
+    right:
+      - text: "Contact"
+        href: contact.html
