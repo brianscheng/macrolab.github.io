@@ -2,28 +2,29 @@
 output: html_document
 ---
 <br>
-*MACRO lab personnel in bold*
+*MACRO lab personnel in bold*  
+<br>
+**In review**  
+<br>
+Ashton, G. V., A. Freestone,…**B. S. Cheng**…, G. M. Ruiz (18th of 64 authors). Predator control of marine communities increases with temperature across 115 degrees of latitude.   
+**Villeneuve, A.**, L. M. Komoroske, **B. S. Cheng**. Diminished warming tolerance and plasticity in low latitude populations of a marine gastropod.  
 
-**In review**
+<br>
 
-Ashton, G. V., A. Freestone,…**B. S. Cheng**…, G. M. Ruiz (18th of 64 authors). Predator control of marine communities increases with temperature across 115 degrees of latitude.
+**Published**    
+<br>
+Banerjee, S.M., C.D. Allen, T. Schmitt, **B.S. Cheng**, J. A. Seminoff, T. Eguchi, L. M. Komoroske. (In Press) Baseline health parameters of eastern Pacific green turtles at Southern California foraging grounds. [Chelonian Conservation and Biology](https://www.chelonianjournals.org/doi/full/10.2744/CCB-1347.1) 18:163-174  
 
-**Villeneuve, A.**, L. M. Komoroske, **B. S. Cheng**. Diminished warming tolerance and plasticity in low latitude populations of a marine gastropod.
+Hollarsmith, J.A., J.S. Sadowski, M.M.M. Picard, **B.S. Cheng**, J. Farlin, A. Russell, E.D. Grosholz. (2019) Effects of seasonal upwelling and runoff on water chemistry and growth and survival of native and commercial oysters. [Limnology and Oceanography](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.11293) 65:224-235  
 
-**Published**
-
-Banerjee, S.M., C.D. Allen, T. Schmitt, **B.S. Cheng**, J. A. Seminoff, T. Eguchi, L. M. Komoroske. (In Press) Baseline health parameters of eastern Pacific green turtles at Southern California foraging grounds. Chelonian Conservation and Biology
-
-Hollarsmith, J.A., J.S. Sadowski, M.M.M. Picard, **B.S. Cheng**, J. Farlin, A. Russell, E.D. Grosholz. (In Press) Relative effects of event-driven estuarine acidification (EA) on growth and survival of native and commercial oysters. Limnology and Oceanography
-
-**Cheng, B.S.**, A.H. Altieri, M.E. Torchin, G.M. Ruiz (2019) Can marine reserves restore lost ecosystem function? A global synthesis. Ecology 100:e02617
+**Cheng, B.S.**, A.H. Altieri, M.E. Torchin, G.M. Ruiz (2019) Can marine reserves restore lost ecosystem function? A global synthesis. [Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2617) 100:e02617
 Highlighted in Nature Sustainability | Science Daily
 
-**Cheng, B.S.**, G.M. Ruiz, A.H. Altieri, M.E. Torchin. (2019) The biogeography of invasion in tropical and temperate seagrass beds: testing interactive effects of predation and propagule pressure. Diversity and Distributions 25:285-297
+**Cheng, B.S.**, G.M. Ruiz, A.H. Altieri, M.E. Torchin. (2019) The biogeography of invasion in tropical and temperate seagrass beds: testing interactive effects of predation and propagule pressure. [Diversity and Distributions](https://onlinelibrary.wiley.com/doi/10.1111/ddi.12850) 25:285-297
 
-Bible, J.M., **B.S. Cheng**, A.L. Chang, M.C. Ferner, K. Wasson, C.J. Zabin, M. Latta, E. Sanford, A. Deck, E.D. Grosholz (2017) Timing of stressors alters interactive effects on a coastal foundation species. Ecology 98:2468-2478
+Bible, J.M., **B.S. Cheng**, A.L. Chang, M.C. Ferner, K. Wasson, C.J. Zabin, M. Latta, E. Sanford, A. Deck, E.D. Grosholz (2017) Timing of stressors alters interactive effects on a coastal foundation species. [Ecology](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1943/full) 98:2468-2478
 
-**Cheng, B.S.**, L.M. Komoroske, E.D. Grosholz (2017) Trophic sensitivity of invasive predator and native prey interactions: integrating environmental context and climate change. Functional Ecology 31:642-652
+**Cheng, B.S.**, L.M. Komoroske, E.D. Grosholz (2017) Trophic sensitivity of invasive predator and native prey interactions: integrating environmental context and climate change. [Functional Ecology](http://onlinelibrary.wiley.com/wol1/doi/10.1111/1365-2435.12759/full) 31:642-652
 Capital Public Radio NPR | Seeker Discovery News | Grist
 
 **Cheng, B.S.**, A.L. Chang, A. Deck, M.C. Ferner (2016) Atmospheric rivers and the mass mortality of wild oysters: insight into an extreme future? Proceedings of the Royal Society B 283:20161462 
@@ -42,6 +43,15 @@ Ontogeny influences sensitivity to climate change stressors in an endangered fis
 
 Kimbro, D.L., **B.S. Cheng**, E.D. Grosholz (2013) Biotic resistance in marine environments. Ecology Letters 16:821-833
 
-Woodson, C.B., J.A. Barth, O.M. Cheriton, M.A. McManus, J.P. Ryan, L. Washburn, K.N. Carden, **B.S. Cheng**, J. Fernandes, L.E. Garske, T.C. Gouhier, A.J. Haupt, K.T. Honey, M.F. Hubbard,   A. Iles, L. Kara, M.C. Lynch, B. Mahoney, M. Pfaff, M.L. Pinsky, M.J. Robart, J.S. Stewart, S.J. Teck, A. True (2011) Observations of internal wave packets propagating along-shelf in northern Monterey Bay. Geophysical Research Letters 38: L01605
+Woodson, C.B., J.A. Barth, O.M. Cheriton, M.A. McManus, J.P. Ryan, L. Washburn, K.N. Carden, **B.S. Cheng**, J. Fernandes, L.E. Garske, T.C. Gouhier, A.J. Haupt, K.T. Honey, M.F. Hubbard,   A. Iles, L. Kara, M.C. Lynch, B. Mahoney, M. Pfaff, M.L. Pinsky, M.J. Robart, J.S. Stewart, S.J. Teck, A. True (2011) Observations of internal wave packets propagating along-shelf in northern Monterey Bay. [Geophysical Research Letters](http://onlinelibrary.wiley.com/doi/10.1029/2010GL045453/abstract) 38: L01605
 
-**Cheng, B.S.** and K.A. Hovel (2010) Biotic resistance to invasion along an estuarine gradient. Oecologia 164:1049-1059
+**Cheng, B.S.** and K.A. Hovel (2010) Biotic resistance to invasion along an estuarine gradient. [Oecologia](http://link.springer.com/article/10.1007/s00442-010-1700-7) 164:1049-1059  
+<br>
+
+**Reports**  
+
+Wasson, K., C. Zabin, J. Bible, E. Ceballos, A. Chang, **B.S. Cheng**,  A. Deck, E.D. Grosholz, M. Latta, M. Ferner. (2014) A Guide to Olympia Oyster Restoration and Conservation.
+
+**Cheng, B.S.** and E. Gaskin, editors. (2011) Climate Impacts to the Nearshore Marine Environment and Coastal Communities: American Samoa and Fagatele Bay National Marine Sanctuary. Marine Sanctuaries Conservation Series ONMS-11-05. U.S. Department of Commerce, NOAA, Office of National Marine Sanctuaries, Silver Spring, MD. 71 pp. 
+
+Largier, J.L, **Cheng, B.S.**, and Higgason, K.D., editors. (2010) Climate Change Impacts: Gulf of the Farallones and Cordell Bank National Marine Sanctuaries. Report of a Joint Working Group of the Gulf of the Farallones and Cordell Bank National Marine Sanctuaries Advisory Councils. Marine Sanctuaries Conservation Series ONMS-11-04.  U.S. Department of Commerce, NOAA, Office of National Marine Sanctuaries, Silver Spring, MD. 121 pp.

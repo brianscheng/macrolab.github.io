@@ -1,8 +1,8 @@
 ---
-output: 
-  html_document:
-      theme: yeti
+output: html_document
 ---
+<br>
+**Welcome**  
 
-<center> #**Welcome**
+We are the MArine Climate and expeRimental ecOlogy Lab at UMass Amherst
 
